@@ -8,4 +8,4 @@ Project Link (Read-only) - https://preview.webflow.com/preview/stephens-internsh
 
 Screenshot of the Site : 
 
-<img src='Web Page.png'> </img>
+<img src='Web Page.png' alt='Site Screenshot'> </img>
